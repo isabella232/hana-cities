@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cities)](https://api.reuse.software/info/github.com/SAP-samples/hana-cities)
+
 # hana-cities
 Cities is a sample applicaion that demonstrate OData service using HANA XS Engine for execution.
 
